@@ -1,4 +1,4 @@
-- 👋 Hi, I’m asher and the main github user name is @uixprt
+👋 Hi, My main github user name is @uixprt
 
 <!---
 - 👀 I’m interested in ...
